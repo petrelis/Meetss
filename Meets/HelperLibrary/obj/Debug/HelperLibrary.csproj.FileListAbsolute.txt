@@ -1,0 +1,6 @@
+C:\Users\pc\source\repos\Meets\HelperLibrary\bin\Debug\HelperLibrary.dll
+C:\Users\pc\source\repos\Meets\HelperLibrary\bin\Debug\HelperLibrary.pdb
+C:\Users\pc\source\repos\Meets\HelperLibrary\obj\Debug\HelperLibrary.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Meets\HelperLibrary\obj\Debug\HelperLibrary.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Meets\HelperLibrary\obj\Debug\HelperLibrary.dll
+C:\Users\pc\source\repos\Meets\HelperLibrary\obj\Debug\HelperLibrary.pdb

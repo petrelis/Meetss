@@ -1,0 +1,22 @@
+[
+{
+  "Name": "meeting0",
+  "ResponsiblePerson": "test",
+  "Description": "meeeetpls",
+  "Category": 1,
+  "Type": 0,
+  "StartDate": "2023-12-05T13:00:00+03:00",
+  "EndDate": "2023-12-05T13:30:00+03:00",
+  "Participants": []
+},
+{
+  "Name": "meeting1",
+  "ResponsiblePerson": "test",
+  "Description": "meeeetpls",
+  "Category": 1,
+  "Type": 0,
+  "StartDate": "2024-04-03T12:00:00+03:00",
+  "EndDate": "2024-04-03T13:30:00+03:00",
+  "Participants": []
+}
+]
